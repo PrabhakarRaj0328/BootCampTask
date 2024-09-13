@@ -10,3 +10,5 @@ To get started with this project:
 2. Install the packages and dependencies using `flutter pub get`
 3. Run the app using `flutter run` command after selecting your desired device.
 4. You can run the app on any emulator or real device according to your convenience.
+
+I have uploaded the sample debug-app.
